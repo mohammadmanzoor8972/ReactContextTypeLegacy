@@ -1,2 +1,0 @@
-# ReactContextTypeLegacy
-Created with CodeSandbox
